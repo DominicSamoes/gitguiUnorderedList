@@ -3,6 +3,11 @@
 #include <iostream>
 #include "List.h"
 
+
+//Author: Dominic Samo
+//Institution: University of Eswatini
+//Majors: B.SC. Computer Science & Physics
+
 using namespace std;
 
 List::List(void)

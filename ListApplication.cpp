@@ -1,6 +1,10 @@
 // ListApplication.cpp : Defines the entry point for the console application.
 //
 
+//Author: Dominic Samo
+//Institution: University of Eswatini
+//Majors: B.SC. Computer Science & Physics
+
 #include "stdafx.h"
 #include "list.h"
 #include <iostream>
