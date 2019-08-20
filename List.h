@@ -1,7 +1,8 @@
 #pragma once
-//Author: Dominic Samo
+//Author: Dominic Francisco Samo
 //Institution: University of Eswatini
 //Majors: B.SC. Computer Science & Physics
+//Year: 3
 
 const int MaxSize = 15;
 typedef  int DataType;

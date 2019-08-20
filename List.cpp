@@ -4,9 +4,10 @@
 #include "List.h"
 
 
-//Author: Dominic Samo
+//Author: Dominic Francisco Samo
 //Institution: University of Eswatini
 //Majors: B.SC. Computer Science & Physics
+//Year: 3
 
 using namespace std;
 
